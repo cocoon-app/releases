@@ -1,0 +1,37 @@
+name: Something's not working
+description: Tell us what went wrong. No technical knowledge needed.
+title: "Problem: "
+labels: ["problem"]
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for helping make Cocoon better! A few plain sentences are perfect.
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What were you trying to do, and what did Cocoon do instead?
+      placeholder: I asked Cocoon to add a login page, and the preview went blank.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Can you make it happen again? How?
+      placeholder: "1. Open my app  2. Ask for …  3. …"
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: Screenshot (optional)
+      description: Drag a screenshot here. Press Shift-Command-5 on your Mac to take one.
+  - type: input
+    id: version
+    attributes:
+      label: Cocoon version
+      description: Filled in for you when you use Help › Send Feedback in Cocoon.
+      placeholder: "0.1.0"
+  - type: input
+    id: macos
+    attributes:
+      label: macOS version
+      placeholder: "26.0"

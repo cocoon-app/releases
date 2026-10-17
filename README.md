@@ -6,4 +6,6 @@ Open **Cocoon.dmg** and drag Cocoon into your Applications folder. That's it: Co
 
 Every download here is signed by Cocoon's developer and notarized by Apple.
 
-Learn more at **[cocoon-app.github.io](https://cocoon-app.github.io)**.
+**Feedback:** [tell us what went wrong](https://github.com/cocoon-app/releases/issues/new?template=problem.yml) or [share an idea](https://github.com/cocoon-app/releases/issues/new?template=idea.yml). Cocoon's Help menu does this for you, with your version filled in.
+
+Learn more at **[cocoon-app.github.io](https://cocoon-app.github.io)**: [privacy](https://cocoon-app.github.io/privacy.html), [beta terms](https://cocoon-app.github.io/terms.html).
