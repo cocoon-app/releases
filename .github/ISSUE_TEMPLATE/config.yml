@@ -1,5 +1,5 @@
 blank_issues_enabled: false
 contact_links:
   - name: Download Cocoon
-    url: https://github.com/cocoon-app/releases/releases/latest/download/Cocoon.dmg
+    url: https://cocoon-app.github.io/download/Cocoon.dmg
     about: The newest version for Macs with Apple silicon (macOS 26 or later).
