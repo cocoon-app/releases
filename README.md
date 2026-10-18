@@ -1,6 +1,6 @@
 # Cocoon downloads
 
-**[Download Cocoon for Mac](https://cocoon-app.github.io/download/Cocoon.dmg)** (beta, Macs with Apple silicon, macOS 26 or later)
+**[Download Cocoon for Mac](https://cocoon-app.github.io/download/)** (beta, Macs with Apple silicon, macOS 26 or later)
 
 Open **Cocoon.dmg** and drag Cocoon into your Applications folder. That's it: Cocoon keeps itself up to date.
 
